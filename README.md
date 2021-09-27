@@ -8,6 +8,8 @@
 <hr>
 <h2>Getting Started #</h2>
 <h4>First you need to add simple_animations 4.0.0 Or + in the dependency at pubspec.yaml:</h4>
+<h5>Get New Version of simple_animations in<a href="https://pub.dev/packages/simple_animations/install" > .Here !</a> </h5>
+  
 <pre><code> dependencies:
   simple_animations: ^4.0.0 </code></pre>
   <h4>Two you need to remove comment in the dependency at pubspec.yaml:</h4>
